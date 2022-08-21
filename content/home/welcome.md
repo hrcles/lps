@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    color: "#e9967a"
+    color: "#f1a58b"
 ---
 
 <br>
