@@ -13,7 +13,6 @@ design:
   background:
     color: "#fbd6b8"
 ---
-
 <br>
 
-O **Laboratório de Psicolinguística e Surdez**, vinculado à Universidade Federal do Pará, executa atividades de pesquisa e ensino sobre p processamento de leitura e escrita, enfatizando o público surdo e ouvinte.
+O **Laboratório de Psicolinguística e Surdez**, vinculado à Universidade Federal do Pará (UFPA), executa atividades de pesquisa e ensino sobre o processamento de leitura e escrita, enfatizando o público surdo e ouvinte.
