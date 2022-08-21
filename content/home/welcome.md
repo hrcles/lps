@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+O **Laboratório de Psicolinguística e Surdez**, vinculado à Universidade Federal do Pará, executa atividades de pesquisa e ensino sobre p processamento de leitura e escrita, enfatizando o público surdo e ouvinte.
