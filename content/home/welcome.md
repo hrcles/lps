@@ -7,7 +7,6 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Laboratório de 
   Psicolinguística e Surdez
 hero_media: logo.jpg
 design:
