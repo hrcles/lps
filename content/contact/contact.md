@@ -9,28 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contato
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: teste@exemplo.org
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    city: Belém
+    region: PA
     postcode: '94305'
-    country: United States
-    country_code: US
+    country: Brasil
+    country_code: BR
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Segunda à Sexta'
+    - 'Manhã: 8:00 às 12:00'
+    - 'Tarde: 14:00 às 17:00'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
