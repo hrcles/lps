@@ -21,13 +21,13 @@ content:
     street: 450 Serra Mall
     city: Belém
     region: PA
-    postcode: '94305'
+    postcode: '66075-110'
     country: Brasil
     country_code: BR
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Instituto de Letras e Comunicação, segundo andar, sala 17
   office_hours:
     - 'Segunda à Sexta'
     - 'Manhã: 8:00 às 12:00'
