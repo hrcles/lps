@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Bem-vindo ao Laboratótio!
+      content: Veja no que estamos trabalhando...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Aprenda conosco! ☕️
+      content: 'Participe de nossas oficinas e cursos!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Turmas de português para surdos abertas!
+      content: 'Veja como participar!'
       align: right
       background:
         position: center
