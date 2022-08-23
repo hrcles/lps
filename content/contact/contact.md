@@ -18,7 +18,7 @@ content:
   email: teste@exemplo.org
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
+    street: Rua Augusto Corrêa, 01
     city: Belém
     region: PA
     postcode: '66075-110'
