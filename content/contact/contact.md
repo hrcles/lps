@@ -30,8 +30,8 @@ content:
   directions: Instituto de Letras e Comunicação, segundo andar, sala 17
   office_hours:
     - 'Segunda à Sexta'
-    - 'Manhã: 8:00 às 12:00'
-    - 'Tarde: 14:00 às 17:00'
+    - 'Manhã: 8h às 12h'
+    - 'Tarde: 14h às 17h'
   appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
