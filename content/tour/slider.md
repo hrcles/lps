@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: sala.jpg
     - title: Aprenda conosco! ☕️
       content: 'Participe de nossas oficinas e cursos!'
       align: left
