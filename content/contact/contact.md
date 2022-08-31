@@ -32,7 +32,8 @@ content:
     - 'Segunda à Sexta'
     - 'Manhã: 8h às 12h'
     - 'Tarde: 14h às 17h'
-  appointment_url: 'https://calendly.com'
+  appointment_url:
+    - Azul
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
