@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: turma.jpg
     - title: Turmas de português para surdos abertas!
       content: 'Veja como participar!'
       align: right
@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: curso.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
