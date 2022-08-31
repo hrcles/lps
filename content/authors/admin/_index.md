@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Pesquiso prosódia visual e ensino português escrito para surdos
 
 interests:
   - Lingüística, Letras e Artes
@@ -32,7 +32,7 @@ education:
       institution: Universidade Federal do Pará (UFPA)
       year: 1997-1999
     - course: Graduação em Letras
-      institution: Universidade Federal do Pará
+      institution: Universidade Federal do Pará (UFPA)
       year: 1992-1996
 
 # Social/Academic Networking
@@ -42,16 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'fmc@ufpa.br'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
