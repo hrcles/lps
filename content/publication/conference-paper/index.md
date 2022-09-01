@@ -1,8 +1,8 @@
 ---
-title: 'An example conference paper'
+title: 'Artigo em conferência'
 authors:
   - admin
-  - Robert Ford
+  - FULANO, Ciclano
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
