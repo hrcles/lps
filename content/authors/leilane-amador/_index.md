@@ -11,7 +11,7 @@ social:
     icon: envelope
   - display:
       header: false
-    link: "http://lattes.cnpq.br/5012998519053481 "
+    link: "http://lattes.cnpq.br/5012998519053481"
     icon_pack: ai
     icon: lattes
 organizations:
