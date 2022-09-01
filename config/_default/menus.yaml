@@ -10,7 +10,7 @@ main:
   - name: Posts
     url: post
     weight: 20
-  - name: Grupo
+  - name: Membros
     url: people
     weight: 30
   - name: Eventos
