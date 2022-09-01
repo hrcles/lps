@@ -5,7 +5,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: Descrição.
 title: Evento (Exemplo)
 location: Local X
 date: 2030-06-01T13:00:00Z
@@ -18,11 +18,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Rua Augusto Corrêa
+  city: Belém
+  region: PA
   postcode: "94305"
-  country: United States
+  country: Brazil
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects: null
