@@ -6,7 +6,7 @@ bio: Graduanda em Letras - Língua Portuguesa
 social:
   - display:
       header: false
-    link: http://amadorleilane8@gmail.com/
+    link: amadorleilane8@gmail.com
     icon_pack: fas
     icon: envelope
   - display:
