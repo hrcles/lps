@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-{{% cta cta_link="./people/" cta_text="**Conheça o grupo →**" %}}
+{{% cta cta_link="./people/" cta_text="**Conheça os membros →**" %}}
