@@ -34,7 +34,7 @@ content:
     - 'Quarta: 9h30 às 11h (Manhã)'
     - 'Sexta: 9h30 às 11h (Manhã)'
   appointment_url:
-    - https://calendar.google.com/calendar/u/0/r
+    - 'https://calendar.google.com/calendar/u/0/r'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
