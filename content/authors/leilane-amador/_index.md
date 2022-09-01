@@ -16,7 +16,7 @@ social:
     icon: lattes
   - display:
       header: false
-    link: "@poesia_azulada"
+    link: https://www.instagram.com/poesia_azulada/
     icon_pack: fab
     icon: instagram
 organizations:
