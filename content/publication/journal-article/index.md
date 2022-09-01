@@ -13,7 +13,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Robert Ford
+  - FULANO, ciclano
 author_notes:
   - Equal contribution
   - Equal contribution
