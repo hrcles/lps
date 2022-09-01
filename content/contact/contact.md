@@ -25,15 +25,16 @@ content:
     country: Brasil
     country_code: BR
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '-1.4760012275027468'
+    longitude: '-48.45725581683158'
   directions: Instituto de Letras e Comunicação, segundo andar, sala 17
   office_hours:
-    - 'Segunda à Sexta'
-    - 'Manhã: 8h às 12h'
-    - 'Tarde: 14h às 17h'
+    - 'Segunda: 9h30 às 11h (Manhã)'
+    - 'Terça: 14h30 as 16h (Tarde)'
+    - 'Quarta: 9h30 às 11h (Manhã)'
+    - 'Sexta: 9h30 às 11h (Manhã)'
   appointment_url:
-    - Azul
+    - https://calendar.google.com/calendar/u/0/r
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
