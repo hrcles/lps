@@ -13,7 +13,12 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'fmc@ufpa.br'
+    link: fmc@ufpa.br
+  - display:
+      header: false
+    link: http://lattes.cnpq.br/4675561460433167
+    icon_pack: ai
+    icon: lattes
 organizations:
   - name: Universidade Federal do Pará
     url: ""
