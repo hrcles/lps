@@ -3,8 +3,8 @@ title: Francisca Maria Carvalho
 role: Professora do curso de Letras - Língua Portuguesa
 avatar_filename: francisca.gif
 bio: Pesquiso prosódia visual e ensino português escrito para surdos
-Áreas:
-  - Lingüística
+interests:
+  - Linguística
   - Letras e Artes
   - Teoria e Análise Linguística
   - Processamento da Linguagem
@@ -17,7 +17,7 @@ social:
 organizations:
   - name: Universidade Federal do Pará
     url: ""
-Educação:
+education:
   courses:
     - course: Doutorado em Letras
       institution: Universidade Federal de Minas Gerais (UFMG)
