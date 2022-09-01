@@ -30,3 +30,4 @@ superuser: false
 user_groups:
   - Membros
 ---
+Graduanda em Licenciatura Letras - Língua Portuguesa. Atualmente é bolsista no Laboratório de Psicolinguística e Surdez.
